@@ -1,0 +1,4 @@
+ls
+cd ..
+cal
+ls -l
